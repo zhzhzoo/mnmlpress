@@ -8,7 +8,7 @@ MnmlPress is inspired by [colynb/leanpress](https://github.com/colynb/leanpress)
 ### Install
 
     $ cd octopress
-    $ git clone 
+    $ git clone https://github.com/tcnksm/mnmlpress .themes/mnmlpress
     $ rake install['mnmlpress']
     $ rake generate
 
