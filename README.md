@@ -5,6 +5,8 @@ MnmlPress is very minimal, single column design theme for [Octopress](https://gi
 
 MnmlPress is inspired by [colynb/leanpress](https://github.com/colynb/leanpress). And its color schema comes from [Flat UI Colors](http://flatuicolors.com/).
 
+See sample, [here](http://deeeet.com/writing/)
+
 ### Install
 
     $ cd octopress
